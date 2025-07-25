@@ -38,14 +38,6 @@ Also, ensure you're using a GPU-enabled runtime (like Colab with GPU).
    - Disable the safety checker for full control
    - Generate stunning images from your text prompts ✨
 
----
-
-## ⚠️ Disclaimer
-
-- This implementation disables safety checks for academic freedom. Please use responsibly.
-- Generated content depends entirely on your prompt. Avoid harmful, unethical, or illegal usage.
-
----
 
 ## 🧪 Example Prompt
 
@@ -59,14 +51,5 @@ Yields an image like:
 
 ---
 
-## ❤️ Credits
-
-- [Hugging Face Diffusers](https://github.com/huggingface/diffusers)
-- [CompVis](https://github.com/CompVis/stable-diffusion)
-- Community contributors for open-sourcing the tools we love!
-
----
-
-## 📜 License
 
 MIT License. Feel free to fork, experiment, and learn
